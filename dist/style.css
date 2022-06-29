@@ -1,0 +1,21 @@
+* {
+    color: navy;
+    font-family: Helvetica, sans-serif;
+    }
+    
+    h2{
+        color: blue;
+    }
+    
+    ul li{
+        list-style: none;
+    }
+    
+    div {
+        margin-top: 10px;
+        margin-bottom: 10px;
+        padding: 1px;
+        border-radius: 5px;
+        color: blue;
+        background-color: rgb(204, 204, 204);
+    }
